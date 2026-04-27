@@ -1,0 +1,99 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.436990510.1774709546",
+      "domain": ".healthdata.org",
+      "path": "/",
+      "expires": 1809269559.865358,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "x-ms-cpim-csrf",
+      "value": "c05VVC9GcW1FYy9ReUpGNnVtVE1WV1ZEL0JuQWpZamNVSXMwRUtqVVNka2p5Y1R3MDFQd0VmSnhzdi9tbUp3V3VmMjYyWG9jbGQ0eHFwOXI3QzI0UVE9PTsyMDI2LTAzLTI4VDE0OjUyOjMyLjc4MTY3NzRaO01oaGR1dWU4TVNYV0hQc3NBcyttQlE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==",
+      "domain": ".login.healthdata.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-geo",
+      "value": "NA",
+      "domain": "login.healthdata.org",
+      "path": "/",
+      "expires": 1774713153.606769,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-cpim-sso:ihmecsu.onmicrosoft.com_0",
+      "value": "m1.cqY9aJ7MkDRBbeeK.h3M+mcNNFWiNKTUGsNPkkg==.0.053W+0qMA9incO2N1OhXZLpLuRL2HO7IltRmqBWW05pwgkMRwtp9PgItdxPGCWnD7K+TiKicAE8Kp+OB25bzune4/oJ982J2fLqlxws5vFjtggK5OOGiEBa7tCb9+Q6LrNbwo6KgTS2hPB2tH0jxjQ/bGZNDY52Pz9Sf5T/0mydIMMTMpGlqNcNoAbs6DatcrBC7PUkU2J3UDgnuL7qp4hCNa6JtsrMoKKOPkCO0g7QgFC8ER8nBRhxEhRTHSORQWvAgXIw2Pn219EexOSdzx5kneQJ4ewvzhL0qsLG6+oPYtgv2SONBES/NGH2WdsafsyzoUyV9zJ4R4Wgi8SYcKJIUcpdbbFBQcmbuXa1f2HZ+ffWCcI16ZwExJ1GwIKwrhyRKVhod2etL/ktVruoQziC8gkjp5ooS6ZnC1CvwpjoldZBtWvV6nGUrXkdmbb9RL093HPDpoqU7lQcrjbwhoTcrNikEcKF7Nh3tlziulB0r+9E90C+meDfqrKlhmCcbUVXT5ikbOfcI+YevDzP/+sOpCacv02RClR01",
+      "domain": ".login.healthdata.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_HZ3D1L1ETN",
+      "value": "GS2.1.s1774709558$o1$g0$t1774709559$j59$l0$h0",
+      "domain": ".healthdata.org",
+      "path": "/",
+      "expires": 1809269559.706215,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_CXPWE40SBJ",
+      "value": "GS2.1.s1774709545$o1$g1$t1774709561$j44$l0$h0",
+      "domain": ".healthdata.org",
+      "path": "/",
+      "expires": 1809269561.579592,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://vizhub.healthdata.org",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "en"
+        },
+        {
+          "name": "msal.token.keys.9e66b6a3-5d2e-400f-b812-f60f441d5041",
+          "value": "{\"idToken\":[\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d-login.healthdata.org-idtoken-9e66b6a3-5d2e-400f-b812-f60f441d5041-a07655f6-e482-42f3-8b30-6b7d009f813d---\"],\"accessToken\":[\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d-login.healthdata.org-accesstoken-9e66b6a3-5d2e-400f-b812-f60f441d5041-a07655f6-e482-42f3-8b30-6b7d009f813d-https://ihmecsu.onmicrosoft.com/data-api/data.read--\"],\"refreshToken\":[\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d-login.healthdata.org-refreshtoken-9e66b6a3-5d2e-400f-b812-f60f441d5041----\"]}"
+        },
+        {
+          "name": "a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d-login.healthdata.org-a07655f6-e482-42f3-8b30-6b7d009f813d",
+          "value": "{\"authorityType\":\"MSSTS\",\"clientInfo\":\"eyJ1aWQiOiJhNjhmNDgxZi1jYmU5LTRjMWMtYTY0Ni00MWQwYWQ0ODMyOTAtYjJjXzFhX3NpZ251cF9zaWduaW4iLCJ1dGlkIjoiYTA3NjU1ZjYtZTQ4Mi00MmYzLThiMzAtNmI3ZDAwOWY4MTNkIn0\",\"homeAccountId\":\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d\",\"environment\":\"login.healthdata.org\",\"realm\":\"a07655f6-e482-42f3-8b30-6b7d009f813d\",\"localAccountId\":\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin\",\"username\":\"\",\"name\":\"Lin Zhang\",\"tenantProfiles\":[{\"tenantId\":\"a07655f6-e482-42f3-8b30-6b7d009f813d\",\"localAccountId\":\"a68f481f-cbe9-4c1c-a646-41d0ad483290\",\"name\":\"Lin Zhang\",\"isHomeTenant\":true}]}"
+        },
+        {
+          "name": "a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d-login.healthdata.org-refreshtoken-9e66b6a3-5d2e-400f-b812-f60f441d5041----",
+          "value": "{\"credentialType\":\"RefreshToken\",\"homeAccountId\":\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d\",\"environment\":\"login.healthdata.org\",\"clientId\":\"9e66b6a3-5d2e-400f-b812-f60f441d5041\",\"secret\":\"eyJraWQiOiJiS2szUnJCSkxKczBiT2VoeTdHT1VZaGlBYWhVMHlXb01pNU1aUkRmLUU4IiwidmVyIjoiMS4wIiwiemlwIjoiRGVmbGF0ZSIsInNlciI6IjEuMCJ9.IMOdPDPd_0onAdANixwRlo50Z0u1aW6nv9NRmex9jIC6roGSI69MJtKaLn3CLHVPSf86h1FmSIryFNZCvwGca1bO_MtNXt1JM-vfPpOfaUnQ4QaWyxpbbX78-u7QyfdZsaWM8wTEPJQOBm7k3mDjG6IUyWQAlihmRANfewFKqRWhHe13RuwopV5Vuzv6cznIljHrF2BpcGrX7Onv15GxqOelUGG2O6Ml6bSPFyImMV1h1B1xLm_MDDJhKJ6YOYL0f6Fir82BiiR6NP1K3pWVsZFn1QqBbOjlxU49GqvFMYb94k0ou9AtE2JmLFcbCkwK87Tvpv6NWAE2KnEvWhQyGw.Q48kzVJNO8agedvM.e7Mos7ZDWMHqz3YZW7zzNWzgq_8_sywkCJ5EILKGZT8en35W1cK8mJrft5yiXie6wVc70W6QxaJY-tRoP04hd92Hmsqn7yBLXEePsuBpdfkJXTFsrPWdAonYNJ4-U19OSRvqA5PS7J-UyitIrD17BhSJA8hzL5wQtQgAnJT3RvY0WxEbbjxftcIzkCxzOt3cXeLVfkTUoVeJmpVE5c63ofpUtLL9OBZAoyA_bBEiuBb3uMQ8fHx1Psxpiji0G-5e3JcMO3tefBAXkBwrarKWZORM15GVOS7yprw7elrsaSK4d7YnLJFvHjQ0nNpz2iRYIe-Y4IKYCUAO2eiyXQCF34w7rrx8ObGgN8OsFeMN2rbx-awxRDWAfQEjA80JQoKqDmy8TtYdcZhoeMlfaQ1WwJw-stuLV1Fts_1dEJS-zqkzHmJCC2pj73Pb4ZRI3YtnIi48iMwAQVbceSUsZpS1oyiNYDqaZfASs5fVSnL8s8n6Cj69p0wru3MxbLkJtjyYYxHVQutJlHmHR-MRJQFMvhPDe0fEKOEMpxZmnUvdrzup-9WYCGhOoo5NFYxaOlaxyXXEdWVeby8onaFRWNaZY39XBkxFcijOBYoe-mB6ZD60n81VnDjd1itqX9Bs2vVqyi_kcnng1cm6MUExDs6KSPvpGBrrgAm6-df3uSmfnIt7DTX_jZHAdoycUD20IG_gXGnL8ozrnJEl4C32CQ1H7tfS8ExBVi605p-1q4f41FlXdyL_7JeTziwb73h9kgSd3NcvDEm72qefBb0_kyFJZaNo0MAI8UntI-6wnQEEl-OG6DKpq9s7N0WgzIstNDrbQSy4qj-s2pGc9kxJJxnYHSD5wKioaA4Dtxl_ITtNbdPuypP6r5bm0QFkWoAewBFhmmuqRm1uAjw7JthcALF2D7N8ieunLhZ7if8dDxFZXinyFX7g-9Mu8YPXK61bEEWobqLbTslj8nT-LQ.af-vAE9opLjJ_NgVckqMLA\",\"expiresOn\":\"1774795961\"}"
+        },
+        {
+          "name": "a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d-login.healthdata.org-idtoken-9e66b6a3-5d2e-400f-b812-f60f441d5041-a07655f6-e482-42f3-8b30-6b7d009f813d---",
+          "value": "{\"credentialType\":\"IdToken\",\"homeAccountId\":\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d\",\"environment\":\"login.healthdata.org\",\"clientId\":\"9e66b6a3-5d2e-400f-b812-f60f441d5041\",\"secret\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6Im40dHlBcm1XSk9fRktYbW5OU2VDR2U2ZE1PelV0YmdtdUljbEZzbmV6R1kiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3NzQ3MTMxNjksIm5iZiI6MTc3NDcwOTU2OSwidmVyIjoiMS4wIiwiaXNzIjoiaHR0cHM6Ly9sb2dpbi5oZWFsdGhkYXRhLm9yZy9hMDc2NTVmNi1lNDgyLTQyZjMtOGIzMC02YjdkMDA5ZjgxM2QvdjIuMC8iLCJzdWIiOiJhNjhmNDgxZi1jYmU5LTRjMWMtYTY0Ni00MWQwYWQ0ODMyOTAiLCJhdWQiOiI5ZTY2YjZhMy01ZDJlLTQwMGYtYjgxMi1mNjBmNDQxZDUwNDEiLCJhY3IiOiJiMmNfMWFfc2lnbnVwX3NpZ25pbiIsIm5vbmNlIjoiMDE5ZDM0ZWUtYWQ0OS03Yzg5LTk2OTAtYjUzNWRmOTMyMTkxIiwiaWF0IjoxNzc0NzA5NTY5LCJhdXRoX3RpbWUiOjE3NzQ3MDk1NTgsImVtYWlsIjoibGluLnpoYW5nMkBtb25hc2guZWR1IiwibmFtZSI6IkxpbiBaaGFuZyIsImZpcnN0X25hbWUiOiJMaW4iLCJsYXN0X25hbWUiOiJaaGFuZyIsIm1lbWJlcl9nYmRfY29sbGFib3JhdG9yX25ldHdvcmsiOnRydWUsInVzaW5nX2RhdGFfb25fYmVoYWxmX29mIjoiUmVzZWFyY2hPckVkdWNhdGlvbmFsSW5zdGl0dXRlIiwiZGF0YV9wZXJtaXNzaW9uX3R5cGUiOiJwdWJsaWMiLCJyb2xlIjoibm9uZSIsInRpZCI6ImEwNzY1NWY2LWU0ODItNDJmMy04YjMwLTZiN2QwMDlmODEzZCIsImlzRm9yZ290UGFzc3dvcmQiOmZhbHNlfQ.FDn4a8np20c0XVw95lea-8rpwo_h3bbvZREj_vW_4jnKieC20tjgBggrAjhyFQZxtzUURHsbe4r0QPQe-h_s7UbTd4F55bcserPx5c69sbkouwSS5cA1iNwBWR-4GcBlXkNTDCF5FRB_z4NL_eVZPS7VnZgB4ZNlg1I-VZOp1oGW4rgQMxu3CC-cAQq4iwbr-VHuxWfbfwdNTD6t0NJuZUZrfeJJ2tWUgRzHRXgwwpj1xLuHOoHuB7-iCbWvMmG9VIbEcYpA0f5YV4zT_-SojpBON0p5jHXYR7TlJNCLlqpke5Yfgg0E-k2WpYxBG46Ebs4SLT-nnyiOQ-wV9pbtJg\",\"realm\":\"a07655f6-e482-42f3-8b30-6b7d009f813d\"}"
+        },
+        {
+          "name": "a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d-login.healthdata.org-accesstoken-9e66b6a3-5d2e-400f-b812-f60f441d5041-a07655f6-e482-42f3-8b30-6b7d009f813d-https://ihmecsu.onmicrosoft.com/data-api/data.read--",
+          "value": "{\"homeAccountId\":\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d\",\"credentialType\":\"AccessToken\",\"secret\":\"eyJhbGciOiJSUzI1NiIsImtpZCI6Im40dHlBcm1XSk9fRktYbW5OU2VDR2U2ZE1PelV0YmdtdUljbEZzbmV6R1kiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiI3MmVlZjJiYS0wM2Y1LTRkNDQtYmVkMC0zZmUzYTc2NjVjMGIiLCJpc3MiOiJodHRwczovL2xvZ2luLmhlYWx0aGRhdGEub3JnL2EwNzY1NWY2LWU0ODItNDJmMy04YjMwLTZiN2QwMDlmODEzZC92Mi4wLyIsImV4cCI6MTc3NDcxMzE2MSwibmJmIjoxNzc0NzA5NTYxLCJzdWIiOiJhNjhmNDgxZi1jYmU5LTRjMWMtYTY0Ni00MWQwYWQ0ODMyOTAiLCJlbWFpbCI6Imxpbi56aGFuZzJAbW9uYXNoLmVkdSIsIm5hbWUiOiJMaW4gWmhhbmciLCJmaXJzdF9uYW1lIjoiTGluIiwibGFzdF9uYW1lIjoiWmhhbmciLCJtZW1iZXJfZ2JkX2NvbGxhYm9yYXRvcl9uZXR3b3JrIjp0cnVlLCJ1c2luZ19kYXRhX29uX2JlaGFsZl9vZiI6IlJlc2VhcmNoT3JFZHVjYXRpb25hbEluc3RpdHV0ZSIsImRhdGFfcGVybWlzc2lvbl90eXBlIjoicHVibGljIiwicm9sZSI6Im5vbmUiLCJ0aWQiOiJhMDc2NTVmNi1lNDgyLTQyZjMtOGIzMC02YjdkMDA5ZjgxM2QiLCJpc0ZvcmdvdFBhc3N3b3JkIjpmYWxzZSwibm9uY2UiOiIwMTlkMzRlZS1hZDQ5LTdjODktOTY5MC1iNTM1ZGY5MzIxOTEiLCJzY3AiOiJkYXRhLnJlYWQiLCJhenAiOiI5ZTY2YjZhMy01ZDJlLTQwMGYtYjgxMi1mNjBmNDQxZDUwNDEiLCJ2ZXIiOiIxLjAiLCJpYXQiOjE3NzQ3MDk1NjF9.KCoeNOdtuQkWWPwq73pniZrheKGMs3KApXa8cWDDJ40Ziq6gQZmX3PuFHrPQwJ_VsvKnA0nCHbNYJ1TDaCg6Bjh3czJ_fJuMT5NOI-vAqxY3_PsG31RToiXigBrRQNmRx64qdQ5e_uqjfOulEUqLeQpabembcsL40V-Ao-jPwBN6SLUMu6pCY_z_hcUFC6h8cQeRl2Lw4yxu_pI4pWKlUGlvEdGjFzbo7I_pjxbgp5uNNjDZM3pVeiqE0nQ6PIHmR_dar2WO4NfCcf2u0tSeP0Jftesq-_yuzutdmNUm7a55020bMtJE6FPdknghtNSjrNTWY7i16E32z4CJ9VelUA\",\"cachedAt\":\"1774709562\",\"expiresOn\":\"1774713161\",\"extendedExpiresOn\":\"1774713161\",\"environment\":\"login.healthdata.org\",\"clientId\":\"9e66b6a3-5d2e-400f-b812-f60f441d5041\",\"realm\":\"a07655f6-e482-42f3-8b30-6b7d009f813d\",\"target\":\"https://ihmecsu.onmicrosoft.com/data-api/data.read\",\"tokenType\":\"Bearer\"}"
+        },
+        {
+          "name": "msal.account.keys",
+          "value": "[\"a68f481f-cbe9-4c1c-a646-41d0ad483290-b2c_1a_signup_signin.a07655f6-e482-42f3-8b30-6b7d009f813d-login.healthdata.org-a07655f6-e482-42f3-8b30-6b7d009f813d\"]"
+        }
+      ]
+    }
+  ]
+}

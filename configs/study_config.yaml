@@ -1,0 +1,12 @@
+project: lancet_research
+sources:
+  nhanes: data/raw/nhanes
+  mimic: data/raw/mimic
+  gbd: data/raw/gbd
+  global_aging: data/raw/global_aging
+warehouse:
+  duckdb: data/gold/research.duckdb
+outputs:
+  figures: outputs/figures
+  tables: outputs/tables
+  manuscript: outputs/manuscript

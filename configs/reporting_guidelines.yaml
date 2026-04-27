@@ -1,0 +1,86 @@
+meta:
+  version: 2026-03-06
+  sources:
+    - name: STROBE
+      url: https://www.equator-network.org/reporting-guidelines/strobe/
+    - name: RECORD
+      url: https://www.equator-network.org/reporting-guidelines/record/
+    - name: GATHER
+      url: https://www.equator-network.org/reporting-guidelines/gather-statement/
+    - name: TRIPOD
+      url: https://www.tripod-statement.org/
+    - name: ICMJE recommendations
+      url: https://www.icmje.org/recommendations/
+    - name: COPE guidelines
+      url: https://publicationethics.org/guidance/Guidelines
+    - name: Lancet information for authors
+      url: https://www.lancet.com/pb/assets/raw/Lancet/authors/lancet-information-for-authors.pdf
+
+guidelines:
+  strobe:
+    applies_to: [cohort, case_control, cross_sectional]
+    required_keywords:
+      - study design
+      - setting
+      - participants
+      - variables
+      - bias
+      - study size
+      - statistical methods
+      - participants flow
+      - descriptive data
+      - outcome data
+      - limitations
+      - interpretation
+      - funding
+  record:
+    applies_to: [routinely_collected_data, ehr, claims]
+    required_keywords:
+      - codes
+      - algorithms
+      - data linkage
+      - database
+      - data cleaning
+      - raw data availability
+  gather:
+    applies_to: [health_estimates, global_burden, gbd]
+    required_keywords:
+      - data inputs
+      - inclusion criteria
+      - data sources
+      - statistical model
+      - uncertainty
+      - model evaluation
+      - reproducible code
+  tripod:
+    applies_to: [prediction_model, risk_model]
+    required_keywords:
+      - predictors
+      - outcome definition
+      - model development
+      - model validation
+      - discrimination
+      - calibration
+      - missing data
+      - sample size
+  icmje:
+    applies_to: [all]
+    required_keywords:
+      - ethics approval
+      - informed consent
+      - conflicts of interest
+      - author contributions
+      - data sharing
+      - funding
+      - role of the funding source
+  lancet_core:
+    applies_to: [all]
+    required_keywords:
+      - research in context
+      - evidence before this study
+      - added value of this study
+      - implications of all the available evidence
+      - limitations
+      - panel
+      - data sharing statement
+      - declaration of interests
